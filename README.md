@@ -1,6 +1,8 @@
 <p align="center" width="100%">
 <img src="https://raw.githubusercontent.com/satish-r-singh/satish-r-singh/main/ezgif.com-gif-maker%20(2).gif">
+ <img src="https://raw.githubusercontent.com/satish-r-singh/satish-r-singh/f71bdb80f991feda987b9aa890e44e72219e398f/Dynamic%20Text.svg">
 </p>
+
 
 ### Hi there 👋
 
