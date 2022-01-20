@@ -1,5 +1,6 @@
-![Logo](https://raw.githubusercontent.com/satish-r-singh/satish-r-singh/main/ezgif.com-gif-maker%20(2).gif)
-
+<p align="center" width="100%">
+<img src="https://raw.githubusercontent.com/satish-r-singh/satish-r-singh/main/ezgif.com-gif-maker%20(2).gif">
+</p>
 
 ### Hi there 👋
 
