@@ -1,3 +1,6 @@
+![Logo](https://raw.githubusercontent.com/satish-r-singh/satish-r-singh/main/Data%20Science%20Logo.gif)
+
+
 ### Hi there 👋
 
 <!--
