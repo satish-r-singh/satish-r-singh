@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/satish-r-singh/satish-r-singh/main/Data%20Science%20Logo.gif)
+![Logo](https://raw.githubusercontent.com/satish-r-singh/satish-r-singh/main/ezgif.com-gif-maker%20(2).gif)
 
 
 ### Hi there 👋
