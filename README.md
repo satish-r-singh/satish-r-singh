@@ -23,7 +23,10 @@ In the past, I have worked with [**InterviewBit**](https://www.interviewbit.com/
 ### How to reach me 📱
 Known on internet as [**satishrohitsingh**](https://www.google.com/search?q=satishrohitsingh) 
 
-[<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wa.me/918059459498) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/skype--v1.png"/>](https://join.skype.com/invite/RmKFWFXrEoN1) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/rowhitswami/) [<img target="_blank" src="https://img.icons8.com/dusk/64/000000/domain.png"/>](https://www.rohitswami.com/) [<img src="https://img.icons8.com/dusk/64/000000/medium-new.png"/>](https://medium.com/@rowhitswami)
+[<img target="_blank" src="https://img.icons8.com/ios-filled/50/000000/whatsapp--v1.png"/>](https://wa.me/27849968273) 
+[<img target="_blank" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/>](https://www.linkedin.com/in/satish-r-singh/) 
+[<img target="_blank" src="https://img.icons8.com/carbon-copy/64/000000/domain.png"/>](https://satishksingh.wixsite.com/portfolio) 
+[<img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png"/>](https://medium.com/@satishk.singh)
 
 ## 👯 Let's Collaborate
 - Without the 1000s of years of collaboration between humans, we wouldn't be be too far from the monkeys we have evolved from. 
