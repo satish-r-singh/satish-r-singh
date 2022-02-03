@@ -10,42 +10,30 @@ In the past, I have worked with [**InterviewBit**](https://www.interviewbit.com/
 -->
 ### Things I'm good at :fire:
 
-**Domain:** Natural Language Processing, Image Processing, Machine Learning, Deep Learning, Data Science, Data Wrangling, Data Visualization, and Data Warehousing.
+**Domain:** Deep Learning, Natural Language Processing, Image Processing, Machine Learning, Data Science, Data Wrangling, Data Visualization, Data Engineering and Data Warehousing.
 
-**Languages:**  Python, SQL, Scala, Sqoop, Flume.
+**Languages:**  Python, SQL, Scala, Sqoop, Flume, Pig.
 
-**Framework:** Hadoop, Spark.
-
-**Libraries & Tools:** AWS EC2, AWS S3, Azure, Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, D3.js, PyTorch, Keras, NLTK, Sentry.
+**Libraries & Tools:** Pandas, Scikit-Learn, SciPy, Matplotlib, Lambda Functions, NumPy, PyTorch, Keras, TensorFlow, NLTK, Azure. 
 
 **Data Analysis:** Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Quantitative Methods, Google Analytics.
 
-### How to reach me 📱
-Known on internet as [**satishrohitsingh**](https://www.google.com/search?q=satishrohitsingh) 
 
-[<img target="_blank" src="https://img.icons8.com/ios-filled/50/000000/whatsapp--v1.png"/>](https://wa.me/27849968273) 
-[<img target="_blank" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/>](https://www.linkedin.com/in/satish-r-singh/) 
-[<img target="_blank" src="https://img.icons8.com/carbon-copy/64/000000/domain.png"/>](https://satishksingh.wixsite.com/portfolio) 
+## "Nothing of significance was ever achieved by an individual acting alone." 
+*John C. Maxwell*
+> Without the 1000s of years of collaboration between like minded humans, we as a civilization wouldn't be too far from the apes we have evolved from. 
+> If you think WE can together make a difference for good, reach out to me now.
+
+### <img src="https://img.icons8.com/ios/20/000000/search--v1.png"/> Find me on 
+
+[<img src="https://img.icons8.com/ios-filled/50/000000/whatsapp--v1.png"/>](https://wa.me/27849968273) 
+[<img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/>](https://www.linkedin.com/in/satish-r-singh/) 
+[<img src="https://img.icons8.com/carbon-copy/64/000000/domain.png"/>](https://satishksingh.wixsite.com/portfolio) 
 [<img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png"/>](https://medium.com/@satishk.singh)
-
-## 👯 Let's Collaborate
-- Without the 1000s of years of collaboration between humans, we wouldn't be be too far from the monkeys we have evolved from. 
-### WE ARE BETTER, TOGETHER
-
+[<img src="https://img.icons8.com/ios-filled/50/000000/instagram-new--v1.png"/>](https://www.instagram.com/satishrohitsingh/)
+[<img src="https://img.icons8.com/ios-filled/50/000000/facebook-new.png"/>](https://facebook.com/satish.rohitsingh)
+[<img src="https://img.icons8.com/ios-filled/50/000000/twitter.png"/>](https://twitter.com/SatishRohitS)
 
 
-<!--
-**satishks85/satishks85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-### Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
