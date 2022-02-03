@@ -27,6 +27,7 @@ In the past, I have worked with [**InterviewBit**](https://www.interviewbit.com/
 ### <img src="https://img.icons8.com/ios/20/000000/search--v1.png"/> Find me on 
 
 [<img src="https://img.icons8.com/ios-filled/50/000000/whatsapp--v1.png"/>](https://wa.me/27849968273) 
+[<img src="https://img.icons8.com/external-kiranshastry-solid-kiranshastry/50/000000/external-email-interface-kiranshastry-solid-kiranshastry.png"/>](mailto:satishk.singh@outlook.com) 
 [<img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/>](https://www.linkedin.com/in/satish-r-singh/) 
 [<img src="https://img.icons8.com/carbon-copy/64/000000/domain.png"/>](https://satishksingh.wixsite.com/portfolio) 
 [<img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png"/>](https://medium.com/@satishk.singh)
