@@ -16,7 +16,7 @@ In the past, I have worked with [**InterviewBit**](https://www.interviewbit.com/
 
 **Libraries & Tools:** Pandas, Scikit-Learn, SciPy, Matplotlib, Lambda Functions, NumPy, PyTorch, Keras, TensorFlow, NLTK, Azure. 
 
-**Data Analysis:** Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Quantitative Methods, Google Analytics.
+**Data Analysis:** Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Quantitative Methods.
 
 
 ## "Nothing of significance was ever achieved by an individual acting alone." 
@@ -29,7 +29,7 @@ In the past, I have worked with [**InterviewBit**](https://www.interviewbit.com/
 [<img src="https://img.icons8.com/ios-filled/50/000000/whatsapp--v1.png"/>](https://wa.me/27849968273) 
 [<img src="https://img.icons8.com/external-kiranshastry-solid-kiranshastry/50/000000/external-email-interface-kiranshastry-solid-kiranshastry.png"/>](mailto:satishk.singh@outlook.com) 
 [<img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/>](https://www.linkedin.com/in/satish-r-singh/) 
-[<img src="https://img.icons8.com/carbon-copy/64/000000/domain.png"/>](https://satishksingh.wixsite.com/portfolio) 
+[<img src="https://img.icons8.com/carbon-copy/64/000000/domain.png"/>](https://www.satishrsingh.com/) 
 [<img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png"/>](https://medium.com/@satishk.singh)
 [<img src="https://img.icons8.com/ios-filled/50/000000/instagram-new--v1.png"/>](https://www.instagram.com/satishrohitsingh/)
 [<img src="https://img.icons8.com/ios-filled/50/000000/facebook-new.png"/>](https://facebook.com/satish.rohitsingh)
