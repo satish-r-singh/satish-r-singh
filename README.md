@@ -4,10 +4,8 @@
 </p>
 
 
-I am currently working as a Sr. Techninal Lead - Data Science [**Zensar Tech**](https://www.zensar.com/). I come with an extensive experience of working with different technologies including Data Engineering, Data Science, Machine Learning and Deep Learning.
-<!--
-In the past, I have worked with [**InterviewBit**](https://www.interviewbit.com/) and [**upGrad**](https://www.upgrad.com/) as a Data Science Intern. I have also worked as a ** Data Analyst Intern at [**MyGov India**](https://www.mygov.in/), which comes under the _**Ministry of Electronics & Information Technology, Government of India**_.
--->
+I am currently working as a Lead Data Scientst  [**Ignite**](https://www.ignitecpp.com/). I come with an extensive experience of working with different technologies including Data Science, Machine Learning and Deep Learning, NLP, Data Engineering.
+
 ### Things I'm good at :fire:
 
 **Domain:** Deep Learning, Natural Language Processing, Image Processing, Machine Learning, Data Science, Data Wrangling, Data Visualization, Data Engineering and Data Warehousing.
