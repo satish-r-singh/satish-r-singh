@@ -4,7 +4,7 @@
 </p>
 
 
-I am currently working as a Lead Data Scientst  [**Ignite**](https://www.ignitecpp.com/). I come with an extensive experience of working with different technologies including Data Science, Machine Learning and Deep Learning, NLP, Data Engineering.
+I am currently working as a Lead Data Scientst at [**Ignite**](https://www.ignitecpp.com/). I come with an extensive experience of working with different technologies including Data Science, Machine Learning and Deep Learning, NLP, Data Engineering.
 
 ### Things I'm good at :fire:
 
