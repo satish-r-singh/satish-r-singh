@@ -12,9 +12,11 @@ I am currently working as a Lead Data Scientst at [**Ignite**](https://www.ignit
 
 **Languages:**  Python, SQL, Scala, Sqoop, Flume, Pig.
 
-**Libraries & Tools:** Pandas, Scikit-Learn, SciPy, Matplotlib, Lambda Functions, NumPy, PyTorch, Keras, TensorFlow, NLTK, Azure. 
+**Libraries & Tools:** Pandas, Scikit-Learn, SciPy, Matplotlib, NumPy, PyTorch, Keras, TensorFlow, NLTK. 
 
 **Data Analysis:** Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Quantitative Methods.
+
+**Cloud:**  AWS, Azure.
 
 
 ## "Nothing of significance was ever achieved by an individual acting alone." 
