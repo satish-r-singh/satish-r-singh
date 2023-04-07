@@ -24,6 +24,8 @@ I am currently working as a Lead Data Scientst at [**Ignite**](https://www.ignit
 > Without the 1000s of years of collaboration between like minded humans, we as a civilization wouldn't be too far from the apes we have evolved from. 
 > If you think WE can together make a difference for good, reach out to me now.
 
+## Find my peronal Data Science projects here [**Data Science Playground**](https://github.com/satish-r-singh/Data-Science-Playground).
+
 ### <img src="https://img.icons8.com/ios/20/000000/search--v1.png"/> Find me on 
 
 [<img src="https://img.icons8.com/ios-filled/50/000000/whatsapp--v1.png"/>](https://wa.me/27849968273) 
