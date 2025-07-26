@@ -33,7 +33,7 @@ I am currently working as a Lead Data Scientst at [**Ignite**](https://www.ignit
 [<img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png"/>](https://medium.com/@satishk.singh)
 [<img src="https://img.icons8.com/ios-filled/50/000000/instagram-new--v1.png"/>](https://www.instagram.com/satishrohitsingh/)
 [<img src="https://img.icons8.com/ios-filled/50/000000/facebook-new.png"/>](https://facebook.com/satish.rohitsingh)
-[<img src="https://img.icons8.com/ios-filled/50/000000/twitter.png"/>](https://twitter.com/SatishRohitS)
+[<img src="https://img.icons8.com/ios-filled/50/twitterx--v1.png"/>](https://twitter.com/SatishRohitS)
 
 
 
