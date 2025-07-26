@@ -8,7 +8,7 @@ I am currently working as a Lead Data Scientst at [**Ignite**](https://www.ignit
 
 ### Things I'm good at :fire:
 
-**Domain:** Deep Learning, Natural Language Processing, Image Processing, Machine Learning, Data Science, Data Wrangling, Data Visualization, Data Engineering and Data Warehousing.
+**Domain:** Generative AI, LLMs, Deep Learning, Natural Language Processing, Image Processing, Machine Learning, Data Science, Data Wrangling, Data Visualization, Data Engineering and Data Warehousing.
 
 **Languages:**  Python, SQL, Scala, Sqoop, Flume, Pig.
 
